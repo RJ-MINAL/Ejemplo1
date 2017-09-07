@@ -14,6 +14,15 @@ namespace Conferencia
     {
         int val1, val2, res;
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            val1 = Int16.Parse(textBox1.Text);
+            val2 = Int16.Parse(textBox2.Text);
+            res = val1 - val2;
+
+            this.label1.Text = "Resultado: " + res;
+        }
+
         public Form1()
         {
             InitializeComponent();
