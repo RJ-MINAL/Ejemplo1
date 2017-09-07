@@ -1,0 +1,10 @@
+C:\Users\RJ\source\repos\Conferencia\Conferencia\bin\Debug\Conferencia.exe.config
+C:\Users\RJ\source\repos\Conferencia\Conferencia\bin\Debug\Conferencia.exe
+C:\Users\RJ\source\repos\Conferencia\Conferencia\bin\Debug\Conferencia.pdb
+C:\Users\RJ\source\repos\Conferencia\Conferencia\obj\Debug\Conferencia.csprojResolveAssemblyReference.cache
+C:\Users\RJ\source\repos\Conferencia\Conferencia\obj\Debug\Conferencia.Form1.resources
+C:\Users\RJ\source\repos\Conferencia\Conferencia\obj\Debug\Conferencia.Properties.Resources.resources
+C:\Users\RJ\source\repos\Conferencia\Conferencia\obj\Debug\Conferencia.csproj.GenerateResource.Cache
+C:\Users\RJ\source\repos\Conferencia\Conferencia\obj\Debug\Conferencia.csproj.CoreCompileInputs.cache
+C:\Users\RJ\source\repos\Conferencia\Conferencia\obj\Debug\Conferencia.exe
+C:\Users\RJ\source\repos\Conferencia\Conferencia\obj\Debug\Conferencia.pdb
